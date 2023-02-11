@@ -1,7 +1,7 @@
 ```
 @infomartion
 ───────────────────
-👥 Username: wyderekk
+👥 Username: vegaxzy
 🔞 Age: 16
 🌐 Website: vegaxzy.xyz
 🌍 Country: Poland
