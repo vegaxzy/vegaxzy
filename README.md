@@ -8,7 +8,7 @@
 
 @specs
 ───────────────────
-💻 OS: Windows 10
+💻 OS: Windows 11
 🖥 Resolution: 2560x1440
 💣 CPU: Ryzen 9 3900X
 🚀 GPU: Nvidia GeForce RTX 2080 Super
