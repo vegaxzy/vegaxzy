@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tymon</h1>
+<h1 align="center">Hi 👋, I'm vegaxzy</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   Discord: @vz5
