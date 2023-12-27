@@ -4,7 +4,7 @@
 
 
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://vegaxzy.xyz)](https://vegaxzy.xyz)
-[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo)
+[![Github](https://img.shields.io/github/followers/vegaxzy?label=Follow&style=social)](https://github.com/hejazizo)
 
 17 yo from poland
 
