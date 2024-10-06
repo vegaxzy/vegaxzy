@@ -1,1 +1,1 @@
-<img src="https://imgur.com/a/H5vRh3w">
+<img url="https://imgur.com/a/H5vRh3w" alt="https://cdn.discordapp.com/attachments/958809069890719784/1231615506088198224/dc_banner.png?ex=67034a12&is=6701f892&hm=238d18ca35108a63915a1ab9129675f2ba7ff2c3486e2f5be237795f8701c0f9&">
